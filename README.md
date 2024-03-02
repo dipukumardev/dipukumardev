@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DIPU KUMAR 
-- 👀 I’m interested in  Web Development ADN CPP (DSA) , PYTHON , MYSQL  
+- 👀 I’m interested in  Web Development AND CPP (DSA) , PYTHON , MYSQL  
 - 🌱 I’m currently learning JAVASCRIPT  AND CPP (DSA)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dipukumardevcod@gmail.com
