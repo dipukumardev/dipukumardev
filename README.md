@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Web Development AND CPP (DSA) , PYTHON , MYSQL  
 - 🌱 I’m currently learning JAVASCRIPT  AND CPP (DSA)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : dipukumardevcod@gmail.com
+- 📫 How to reach me : dipukumardevcod@gmail.com , dipukumar404h@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: old github Account was delated by some problem and i face same problem in my New github account😒
 
