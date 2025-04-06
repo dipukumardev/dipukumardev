@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVASCRIPT  AND CPP (DSA)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dipukumardevcod@gmail.com, dipukumar404h@gmail.com
-- 🕸️ CheckOut My Portfolio Website: https://dipu.tech/
+- 🕸️ CheckOut My Portfolio Website: https://diputech.vercel.app/
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: old github Account was delated by some problem and i face same problem in my New github account😒 after few days am i solving my github problem😂.
 
